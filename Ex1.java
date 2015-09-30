@@ -14,7 +14,7 @@ import java.util.Iterator;
 // Je modifie
 // On fait quoi maintenant ?
 // Normalement on dois faire des conflits dans le code pour les gérer
-// Mais c'est assez chiant à faire nan ?
+// Les conflits c'est ok
 
 // J'embête Rémi
 
