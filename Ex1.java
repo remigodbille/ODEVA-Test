@@ -13,7 +13,8 @@ import java.util.Iterator;
 //  Bonjour je m'incruste dans ton TP !
 // Je modifie
 // On fait quoi maintenant ?
-
+// Normalement on dois faire des conflits dans le code pour les gérer
+// Mais c'est assez chiant à faire nan ?
 
 public class Ex1{
 	
