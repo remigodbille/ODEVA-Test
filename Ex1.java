@@ -16,6 +16,7 @@ import java.util.Iterator;
 // Normalement on dois faire des conflits dans le code pour les gérer
 // Mais c'est assez chiant à faire nan ?
 
+
 public class Ex1{
 	
 	private ArrayList<String> usager, theme;
@@ -38,11 +39,11 @@ public class Ex1{
 	}
 
 	public ArrayList<String> getUsager(){
-		return this.usager;
+		return this.theme;
 	}
 	
 	public ArrayList<String> getTheme(){
-		return this.theme;
+		return this.usager;
 	}
 	
 	// Création du fichier contenant les usagers
