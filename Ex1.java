@@ -5,6 +5,11 @@ import java.io.IOException;
 import java.io.FileWriter;
 import java.util.Iterator;
 
+/** @Collaborators
+* Bellart Clement
+* Knapik Christopher
+* Godbille Remi */
+
 public class Ex1{
 	
 	private ArrayList<String> usager, theme;
