@@ -16,7 +16,7 @@ import java.util.Iterator;
 // Normalement on dois faire des conflits dans le code pour les gérer
 // Les conflits c'est ok
 
-// J'embête Rémi
+// J'embête Rémi encore
 
 
 public class Ex1{
