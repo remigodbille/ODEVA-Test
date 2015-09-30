@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.FileWriter;
 import java.util.Iterator;
 
+//  Bonjour je m'incruste dans ton TP !
+// Je modifie
+
 public class Ex1{
 	
 	private ArrayList<String> usager, theme;
