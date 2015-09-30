@@ -12,6 +12,8 @@ import java.util.Iterator;
 
 //  Bonjour je m'incruste dans ton TP !
 // Je modifie
+// On fait quoi maintenant ?
+
 
 public class Ex1{
 	
